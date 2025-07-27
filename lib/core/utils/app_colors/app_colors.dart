@@ -10,5 +10,6 @@ class AppColors{
   static const Color greyColor=Color(0xff8d99ae);
   static const Color brownColor=Color(0xffc08552);
   static const Color yelloColor=Color(0xfff6bd60);
+  static const Color pichColor=Color(0xffe3ac9e);
 
 }
